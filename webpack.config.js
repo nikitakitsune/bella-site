@@ -7,7 +7,7 @@ module.exports = {
     rules: [{ test: /\.css$/, use: [ 'style-loader', 'css-loader' ] }],
   },
   output: {
-    path: path.resolve(__dirname, "docs"),
+    path: path.resolve(__dirname, "build"),
     filename: "index_bundle.js",
   },
   plugins: [
