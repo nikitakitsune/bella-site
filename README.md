@@ -1,2 +1,1 @@
-# bella-site
-Bella-jewelry
+# Bella jewelry site
