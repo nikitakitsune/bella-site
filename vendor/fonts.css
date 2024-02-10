@@ -1,0 +1,9 @@
+@font-face{
+  font-family: "Albra Grotesk Regular-Traced-Web";
+  src:url("../fonts/Albra-Grotesk-Regular-Traced-Web.woff")format("woff"),
+      url("../fonts/Albra-Grotesk-Regular-Traced-Web.otf")format("otf"),
+      url("../fonts/Albra-Grotesk-Regular-Traced-Web.ttf")format("truetype");
+  font-weight:normal;
+  font-style:normal;
+  font-display:swap;
+}

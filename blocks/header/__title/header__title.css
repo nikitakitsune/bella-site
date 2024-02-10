@@ -1,0 +1,20 @@
+@media screen and (min-width: 1024px) {
+  .header__title {
+    width: 740px;
+    height: 350px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header__title {
+    width: 370px;
+    height: 175px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .header__title {
+    width: 259px;
+    height: 122px;
+  }
+}

@@ -1,0 +1,7 @@
+.text-section__link {
+  margin: 0 0 14px;
+}
+
+.text-section__link:last-of-type {
+  margin: 0;
+}

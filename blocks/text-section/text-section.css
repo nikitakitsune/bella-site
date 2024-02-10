@@ -1,0 +1,16 @@
+.text-section {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 1024px) {
+  .text-section {
+    padding: 100px 20px 100px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .text-section {
+    padding: 50px 20px 50px;
+  }
+}

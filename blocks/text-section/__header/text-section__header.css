@@ -1,0 +1,21 @@
+.text-section__header {
+  font-family: "Albra Grotesk Regular-Traced-Web";
+  line-height: 1.2em;
+  text-transform: uppercase;
+  max-width: 420px;
+  font-weight: 400;
+}
+
+@media screen and (min-width: 1024px) {
+  .text-section__header {
+    font-size: 40px;
+    margin: 0 0 50px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .text-section__header {
+    font-size: 30px;
+    margin: 0 0 30px;
+  }
+}

@@ -1,0 +1,28 @@
+.header__subtitle {
+  color: white;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-family: "Albra Grotesk Regular-Traced-Web";
+  text-shadow: gray 1px 0 10px;
+}
+
+@media screen and (min-width: 1024px) {
+  .header__subtitle {
+    font-size: 32px;
+    margin: 34px 0 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header__subtitle {
+    font-size: 30px;
+    margin: 28px 0 0;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .header__subtitle {
+    font-size: 18px;
+    margin: 25px 0 0;
+  }
+}
