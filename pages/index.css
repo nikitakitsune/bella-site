@@ -1,4 +1,5 @@
 /* Vendor */
+@import url("../vendor/colors.css");
 @import url("../vendor/normalize.css");
 @import url("../vendor/fonts.css");
 /* Blocks */
@@ -17,3 +18,11 @@
 @import url("../blocks/text-section/__bold/text-section__bold.css");
 /* Section */
 @import url("../blocks/section/section.css");
+/* Colors section */
+@import url("../blocks/colors-section/colors-section.css");
+@import url("../blocks/colors/colors.css");
+@import url("../blocks/color/color.css");
+@import url("../blocks/color/__header/color__header.css");
+@import url("../blocks/color/__title/color__title.css");
+@import url("../blocks/color/__subtitle/color__subtitle.css");
+@import url("../blocks/color/__opacity/color__opacity.css");
